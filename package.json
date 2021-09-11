@@ -1,0 +1,14 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[D\u001b[D\u001b[CExercise for Node, Npm, and file API\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[Cnode-file\u001b[B\u001b[B\u001b[D\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D"
+  },
+  "author": "kaz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
